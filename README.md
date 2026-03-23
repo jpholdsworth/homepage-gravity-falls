@@ -115,19 +115,19 @@ cd homepage-gravity-falls
 Building this project provided practical experience working with core front-end technologies without relying on frameworks or external libraries.
 
 ### Key Challenges
-**Creating a Responsive Layout Without Frameworks**
+**Creating a Responsive Layout Without Frameworks** <br />
 Designing layouts for multiple screen sizes required careful use of Flexbox, Grid, media queries and relative units.
 ✅ *Learning*: Stronger understanding of mobile-first responsive design.
 
-**Maintaining Visual Consistency**
+**Maintaining Visual Consistency** <br />
 Recreating a themed design while keeping readability and usability required balancing aesthetics with accessibility.
 ✅ *Learning*: Improved understanding of typography hierarchy, spacing and contrast.
 
-**Working with Custom Fonts**
+**Working with Custom Fonts** <br />
 Loading fonts locally introduced challenges around performance and fallback handling.
 ✅ *Learning*: Better knowledge of font optimisation and loading strategies.
 
-**Keeping CSS Maintainable**
+**Keeping CSS Maintainable** <br />
 As styling expanded, structure and naming conventions became essential.
 ✅ *Learning*: Writing cleaner selectors and organising styles for scalability.
 
