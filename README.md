@@ -1,16 +1,21 @@
 # 🌲 Gravity Falls Homepage
 
 ## 🌐 Live Demo
-
+[View Live Demo](https://jpholdsworth.github.io/homepage-gravity-falls/)
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
 
-<!-- Introduction -->
-
-<!-- Screenshot -->
+![Homepage](/doc/screenshot.png)
 
 ## 📑 Table of Contents
+- [The Vision](#-the-vision)
+- [Features](#-features)
+- [UI/UX](#-uiux)
+- [Getting Started](#-getting-started)
+- [Usage](#-usage)
+- [Tech Stack](#️-tech-stack)
+- [Architecture](#-architecture)
 
 ## 🎯 The Vision
 
