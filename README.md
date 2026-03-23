@@ -116,19 +116,19 @@ Building this project provided practical experience working with core front-end 
 
 ### Key Challenges
 **Creating a Responsive Layout Without Frameworks** <br />
-Designing layouts for multiple screen sizes required careful use of Flexbox, Grid, media queries and relative units.
+Designing layouts for multiple screen sizes required careful use of Flexbox, Grid, media queries and relative units. <br />
 ✅ *Learning*: Stronger understanding of mobile-first responsive design.
 
 **Maintaining Visual Consistency** <br />
-Recreating a themed design while keeping readability and usability required balancing aesthetics with accessibility.
+Recreating a themed design while keeping readability and usability required balancing aesthetics with accessibility. <br />
 ✅ *Learning*: Improved understanding of typography hierarchy, spacing and contrast.
 
 **Working with Custom Fonts** <br />
-Loading fonts locally introduced challenges around performance and fallback handling.
+Loading fonts locally introduced challenges around performance and fallback handling. <br />
 ✅ *Learning*: Better knowledge of font optimisation and loading strategies.
 
 **Keeping CSS Maintainable** <br />
-As styling expanded, structure and naming conventions became essential.
+As styling expanded, structure and naming conventions became essential. <br />
 ✅ *Learning*: Writing cleaner selectors and organising styles for scalability.
 
 ### Key Takeaways
